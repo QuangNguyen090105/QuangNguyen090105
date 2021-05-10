@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuangNguyen090105
+- 👋 Hi, I’m QuangNguyen
 - 👀 I’m interested in coding and learning
 - 🌱 I’m currently learning as a student
 - 💞️ I’m looking to collaborate on how to code
